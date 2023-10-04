@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <link rel="stylesheet" href="./assets/css/style.css">
+        <title>Code Quiz</title>
+    </head>
+
+    <body>
+        <div id="top-bar">
+            <button id="btn-return" type="button" class="btn" onclick = window.location.href='index.html';>Return</button>
+            <div id="countdown"></div>
+        </div>
+        <div id="top">
+          <div id="question-header">Question</div>
+
+        </div>
+
+        <div id="question"></div>
+        <div id="choices">
+            <div id="choiceA" class="choice"></div>
+            <div id="choiceB" class="choice"></div>
+            <div id="choiceC" class="choice"></div>
+            <div id="choiceD" class="choice"></div>
+
+
+        </div>
+
+        <section id="score-list">
+            <div id="final-score"></div>
+            <div id="enter-text">Enter your initials to save your score:</div>
+            <div><input type="text" id="initials"/></div>
+        </section>
+            <button type="button" id="btnSubmit" class="btn">Enter</button>
+
+        <script src='assets/js/script.js'></script>
+    </body>
+</html>
