@@ -12,8 +12,9 @@ This project has allowed me to gain further experience working with JavaScript, 
 1. Inspect written JavaScript code directly on Github.
 2. View Github page of raw JavaScript code using the link below:
    https://github.com/Estevan-Gonzales/module-4-challenge-javascript-code-quiz/blob/main/assets/js/script.js
-4. Use Developer Tools to view meta data associated with the compiled JavaScript found below:      
-
+3. Use Developer Tools to view meta data associated with the compiled JavaScript found below:
+   https://estevan-gonzales.github.io/module-4-challenge-javascript-code-quiz/index.html
+ 
 ### Option 2:
 1. Clone this repository to your local machine.
 2. Open in VS Code.
