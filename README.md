@@ -23,11 +23,14 @@ This project has allowed me to gain further experience working with JavaScript, 
 
 1. Click the Start button to begin the game. This starts the countdown timer.
 <img width="667" alt="Screenshot 2023-10-04 at 2 20 55 PM" src="https://github.com/Estevan-Gonzales/module-4-challenge-javascript-code-quiz/assets/8584310/bb07f032-5576-412f-ab38-1ab0f4b1f411">
+
 2. You will be presented with a question. Click on the correct choice. Your time will continue to decrease, and if your answer is incorrect your time will be penalized.
 <img width="1090" alt="Screenshot 2023-10-04 at 2 21 25 PM" src="https://github.com/Estevan-Gonzales/module-4-challenge-javascript-code-quiz/assets/8584310/ac350acf-b915-41f5-98fb-eefdc41e4f17">
+
 3. Select your choices for each question.
 4. Your score is your final time left after answering each question.
 <img width="469" alt="Screenshot 2023-10-04 at 2 21 48 PM" src="https://github.com/Estevan-Gonzales/module-4-challenge-javascript-code-quiz/assets/8584310/eda2598b-7beb-437c-af7d-253d2b6eb95f">
+
 5. After each game, you will be shown a list of top scores.
 6. Press the "Go Back" button to restart the game at any time.
 
